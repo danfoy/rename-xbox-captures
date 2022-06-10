@@ -1,0 +1,15 @@
+{
+  "name": "rename-xbox-captures",
+  "version": "0.1.0",
+  "description": "Rename Xbox video captures to begin with ISO date. Standardizes filename for both OneDrive and external storage captures.",
+  "main": "./bin/index.js",
+  "bin": {
+    "rename-xbox-captures": "./bin/index.js"
+  },
+  "keywords": [
+    "rename",
+    "xbox"
+  ],
+  "author": "Dan Foy",
+  "license": "ISC"
+}
